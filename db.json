@@ -1,0 +1,16 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "location": "Taipei",
+      "account": "person_a1",
+      "avater": "/images/avaters/a1.png",
+      "photo": "images/posts/p1.png",
+      "likes": 98,
+      "description": "OMG",
+      "hasTags": "OHOH",
+      "createTime": "10 hours ago"
+    }
+  ],
+  "stories": [{ "id": 1, "name": "Andy", "avater": "/images/avaters/a1.png" }]
+}

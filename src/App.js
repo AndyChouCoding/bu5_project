@@ -1,12 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+import { useRoutes } from "react-router-dom";
+import routes from "./routes";
+import "bootstrap/dist/css/bootstrap.min.css";
 
-function App() {
-  return (
-    <div className="App">
-      
-    </div>
-  );
-}
-
+const App =() => {
+  const element = useRoutes(routes);
+  return element;
+};
 export default App;
