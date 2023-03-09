@@ -9,7 +9,7 @@ const Header = () => {
     <>
       <Navbar bg="light" className="skicky">
         <Container>
-          <Navbar.Brand href="#home">
+          <Navbar.Brand href="/">
             <img
               src="../images/icon/logo.png"
               width="100"
@@ -21,12 +21,12 @@ const Header = () => {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="justify-content-end flex-grow-1 pe-3">
-              <Nav.Link className="" href="#home">
+              <Nav.Link className="" href="/">
                 <img src="../images/icon/home.png" 
                 width="30" 
                 height="30"></img>
               </Nav.Link>
-              <Nav.Link className="me-2" href="#following">
+              <Nav.Link className="me-2" href="following">
                 {" "}
                 <img
                   src="../images/icon/following.png"
