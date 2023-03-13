@@ -7,7 +7,7 @@ import Navbar from "react-bootstrap/Navbar";
 const Header = () => {
   return (
     <>
-      <Navbar bg="light" className="skicky">
+      <Navbar bg="light" className="skicky" style={{minWidth:"auto"}} >
         <Container>
           <Navbar.Brand href="/">
             <img

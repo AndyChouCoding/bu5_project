@@ -10,7 +10,117 @@
       "description": "OMG",
       "hasTags": "OHOH",
       "createTime": "10 hours ago"
-    }
+    },
+    {
+      "id": 2,
+      "location": "Taipei2",
+      "account": "person_a2",
+      "avater": "/images/avaters/a2.png",
+      "photo": "images/posts/p2.png",
+      "likes": 2,
+      "description": "OMG2",
+      "hasTags": "OHOH2",
+      "createTime": "2 hours ago"
+    },
+    {
+        "id": 3,
+        "location": "Taipei3",
+        "account": "person_a3",
+        "avater": "/images/avaters/a3.png",
+        "photo": "images/posts/p3.png",
+        "likes": 3,
+        "description": "OMG3",
+        "hasTags": "OHOH3",
+        "createTime": "3 hours ago"
+      },
+      {
+        "id": 4,
+        "location": "Taipei4",
+        "account": "person_a4",
+        "avater": "/images/avaters/a4.png",
+        "photo": "images/posts/p4.png",
+        "likes": 4,
+        "description": "OMG4",
+        "hasTags": "OHOH4",
+        "createTime": "4 hours ago"
+      },
+      {
+        "id": 5,
+        "location": "Taipei5",
+        "account": "person_a5",
+        "avater": "/images/avaters/a5.png",
+        "photo": "images/posts/p5.png",
+        "likes": 5,
+        "description": "OMG5",
+        "hasTags": "OHOH5",
+        "createTime": "5 hours ago"
+      },
+      {
+        "id": 6,
+        "location": "Taipei6",
+        "account": "person_a6",
+        "avater": "/images/avaters/a6.png",
+        "photo": "images/posts/p6.png",
+        "likes": 6,
+        "description": "OMG6",
+        "hasTags": "OHOH6",
+        "createTime": "6 hours ago"
+      },
+      {
+        "id": 7,
+        "location": "Taipei7",
+        "account": "person_a7",
+        "avater": "/images/avaters/a7.png",
+        "photo": "images/posts/p7.png",
+        "likes": 7,
+        "description": "OMG7",
+        "hasTags": "OHOH7",
+        "createTime": "7 hours ago"
+      },
+      {
+        "id": 8,
+        "location": "Taipei8",
+        "account": "person_a8",
+        "avater": "/images/avaters/a8.png",
+        "photo": "images/posts/p8.png",
+        "likes": 8,
+        "description": "OMG8",
+        "hasTags": "OHOH8",
+        "createTime": "8 hours ago"
+      },
+      {
+        "id": 9,
+        "location": "Taipei9",
+        "account": "person_a9",
+        "avater": "/images/avaters/a9.png",
+        "photo": "images/posts/p9.png",
+        "likes": 9,
+        "description": "OMG9",
+        "hasTags": "OHOH9",
+        "createTime": "9 hours ago"
+      },
+      {
+        "id": 10,
+        "location": "NewTaipei",
+        "account": "person_a10",
+        "avater": "/images/avaters/a10.png",
+        "photo": "images/posts/p10.png",
+        "likes": 10,
+        "description": "OMG10",
+        "hasTags": "OHOH10",
+        "createTime": "10 hours ago"
+      }
   ],
-  "stories": [{ "id": 1, "name": "Andy", "avater": "/images/avaters/a1.png" }]
+  "stories": [
+    { "id": 1, "name": "Andy", "avater": "/images/avaters/a1.png" },
+    { "id": 2, "name": "Andy2", "avater": "/images/avaters/a2.png" },
+    { "id": 3, "name": "Andy3", "avater": "/images/avaters/a3.png" },
+    { "id": 4, "name": "Andy4", "avater": "/images/avaters/a4.png" },
+    { "id": 5, "name": "Andy5", "avater": "/images/avaters/a5.png" },
+    { "id": 6, "name": "Andy6", "avater": "/images/avaters/a6.png" },
+    { "id": 7, "name": "Andy7", "avater": "/images/avaters/a7.png" },
+    { "id": 8, "name": "Andy8", "avater": "/images/avaters/a8.png" },
+    { "id": 9, "name": "Andy9", "avater": "/images/avaters/a9.png" },
+    { "id": 10, "name": "Andy10", "avater": "/images/avaters/a10.png" }
+  ]
 }
